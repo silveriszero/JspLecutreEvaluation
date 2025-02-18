@@ -33,24 +33,6 @@ Lecture-Evaluation/
 │   ├── .JSP          # 설정 파일 및 JSP 페이지
 ```
 
-## ⚙️ 프로젝트 설정 및 실행 방법
-1. 프로젝트 클론
-```bash
-git clone https://github.com/your-repository/jsp-lecture-evaluation.git
-cd jsp-lecture-evaluation
-```
-
-2. 데이터베이스 설정
-   - MySQL에 `lecture_evaluation` 데이터베이스 생성
-   - `db.properties` 파일에 MySQL 접속 정보 입력
-
-3. 프로젝트 빌드 및 실행
-   - Tomcat 서버에 프로젝트 배포 후 실행
-
-4. 웹사이트 접속
-   - 브라우저에서 `http://localhost:8080/lecture-evaluation` 접속
-
-
 ## 📌 개발자
 - **이름:** 이은영
 - **이메일:** eunyoung0753@naver.com
