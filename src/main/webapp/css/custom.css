@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Nanum+Gothic&family=Poor+Story&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Poor+Story&display=swap');
+
+.navbar-brand, h1 , h2, h3, h4, h5 {
+	font-family : "Do Heyeon";
+}
+
+h5 {
+	font-family : 'Do Heyeon';
+	font-size : 18px;
+}
+
+body {
+	font-family : "Nanum Gothic";
+}
