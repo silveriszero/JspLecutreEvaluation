@@ -38,5 +38,7 @@ Lecture-Evaluation/
 - **이메일:** eunyoung0753@naver.com
 - **GitHub:** [github.com/silveriszero](https://github.com/silveriszero)
 
+## 참고 자료
+https://www.youtube.com/watch?v=hke9FKluXow&list=PLRx0vPvlEmdAdWCQeUPnyMZ4PsW3dGuFB
 
 
